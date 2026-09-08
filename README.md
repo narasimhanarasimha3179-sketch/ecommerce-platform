@@ -1,5 +1,11 @@
 # ShopEase Ecommerce Platform
 
+## Live Deployment Links
+
+- **Frontend Storefront:** [https://ecommerce-frontend-b6is.onrender.com](https://ecommerce-frontend-b6is.onrender.com)
+- **Backend API:** [https://ecommerce-backend-6qrt.onrender.com](https://ecommerce-backend-6qrt.onrender.com)
+
+---
 Full-stack MERN ecommerce application with:
 
 - React + Vite frontend
